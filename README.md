@@ -1,2 +1,1 @@
-# make-money-for-developers-resources
-Make money for developers resources
+# Make Money for Developers Resources
